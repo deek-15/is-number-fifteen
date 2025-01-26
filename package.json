@@ -1,0 +1,20 @@
+{
+  "name": "is-number-fifteen",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deek-15/is-number-fifteen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deek-15/is-number-fifteen/issues"
+  },
+  "homepage": "https://github.com/deek-15/is-number-fifteen#readme"
+}
